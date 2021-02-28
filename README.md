@@ -1,2 +1,3 @@
-# 3d-periodic-table-website
-A Material Science Engineering Project Website
+# Developer: Darwin L. Camahalan
+--
+## A Material Science Engineering Project Website
